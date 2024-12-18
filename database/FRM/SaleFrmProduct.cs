@@ -548,12 +548,10 @@ namespace database.FRM
                 if (Connection.State != ConnectionState.Open)
                     Connection.Open();
 
-                string insertQuery = @"
-                            delete from Orders
-                            where OrderID = @OrderID";
+                string DeleteQuery = @"delete from Orders where OrderID = @OrderID";
 
 
-                using (SqlCommand cmd = new SqlCommand(insertQuery, Connection))
+                using (SqlCommand cmd = new SqlCommand(DeleteQuery, Connection))
                 {
                     cmd.Parameters.Add("@OrderID", SqlDbType.Int).Value = int.Parse(currentOrderID);
                     
