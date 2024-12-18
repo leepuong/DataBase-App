@@ -399,7 +399,7 @@ namespace database.FRM
 
                         return true;
                     }
-                    else if (QuantityValue < 0){
+                    else if (QuantityValue <= 0){
                         MessageBox.Show("Product quantity must be positive");
                         return false;
                     }
