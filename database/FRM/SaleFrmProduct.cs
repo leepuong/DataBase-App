@@ -383,6 +383,11 @@ namespace database.FRM
         private bool Checkquantity(int quantity)
         {
 
+            if (quantity <= 0) {
+                MessageBox.Show("Product quantity must be positive");
+                return false;
+            };
+
             if (Connection.State != ConnectionState.Open)
                 Connection.Open();
             string checkQuan = "SELECT [QuantityOfProducts] FROM Product WHERE ProductID = @ProductID";
@@ -399,10 +404,6 @@ namespace database.FRM
 
                         return true;
                     }
-                    else if (QuantityValue <= 0){
-                        MessageBox.Show("Product quantity must be positive");
-                        return false;
-                    }
                     else 
                     {
                         MessageBox.Show("Insufficient quantity of products in stock");
@@ -411,9 +412,6 @@ namespace database.FRM
                 }
 
             }
-
-
-
             return true;
         }
 
