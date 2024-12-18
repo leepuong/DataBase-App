@@ -268,14 +268,12 @@ namespace database.FRM
                         {
                             var worksheet = package.Workbook.Worksheets.Add("ProductList");
 
-                            // Add headers
                             for (int col = 0; col < dgvwWareFrmWareHouse.Columns.Count; col++)
                             {
                                 worksheet.Cells[1, col + 1].Value = dgvwWareFrmWareHouse.Columns[col].HeaderText;
                                 worksheet.Cells[1, col + 1].Style.Font.Bold = true;
                             }
 
-                            // Add data rows
                             for (int row = 0; row < dgvwWareFrmWareHouse.Rows.Count; row++)
                             {
                                 for (int col = 0; col < dgvwWareFrmWareHouse.Columns.Count; col++)
@@ -285,10 +283,8 @@ namespace database.FRM
                                 }
                             }
 
-                            // Auto-fit columns
                             worksheet.Cells.AutoFitColumns();
 
-                            // Save the file
                             package.SaveAs(new FileInfo(filePath));
                         }
 
