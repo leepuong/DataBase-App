@@ -1,0 +1,210 @@
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\database.exe
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\database.deps.json
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\database.runtimeconfig.json
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\database.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\database.pdb
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\BouncyCastle.Cryptography.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\EPPlus.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\EPPlus.Interfaces.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\EPPlus.System.Drawing.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Guna.UI2.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\itextsharp.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\LiveCharts.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\LiveCharts.WinForms.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\LiveCharts.Wpf.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\System.Drawing.Common.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\System.Formats.Asn1.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\System.Management.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\System.Security.Cryptography.Pkcs.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\System.Text.Encoding.CodePages.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\System.Text.Encodings.Web.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\System.Text.Json.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.csproj.AssemblyReference.cache
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmChart.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmCustomer.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmEmployees.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmProduct.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmBill.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmControlCustomerID.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmControlQuantityProduct.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmCotrlAddUser.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.FunctionFrm.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.SaleOrder.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.SaleProduct.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.FRM.WareHouseWareHouse.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.Manager.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.Properties.Resources.resources
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.csproj.GenerateResource.cache
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.AssemblyInfoInputs.cache
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.AssemblyInfo.cs
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.csproj.CoreCompileInputs.cache
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.csproj.Up2Date
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.dll
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\refint\database.dll
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.pdb
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.genruntimeconfig.cache
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\ref\database.dll
+D:\IT\souresC#\database\database\obj\Debug\net7.0-windows7.0\database.login_frm.resources
+D:\IT\souresC#\database\database\bin\Debug\net7.0-windows7.0\BCrypt.Net.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\database.exe
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\database.deps.json
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\database.runtimeconfig.json
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\database.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\database.pdb
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\BCrypt.Net.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\BouncyCastle.Cryptography.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\EPPlus.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\EPPlus.Interfaces.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\EPPlus.System.Drawing.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Guna.UI2.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\itextsharp.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\LiveCharts.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\LiveCharts.WinForms.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\LiveCharts.Wpf.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\System.Drawing.Common.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\System.Formats.Asn1.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\System.Management.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\System.Security.Cryptography.Pkcs.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\System.Text.Encoding.CodePages.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\System.Text.Encodings.Web.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\System.Text.Json.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\IT\souresC#\database - Copy\database\bin\Debug\net7.0-windows7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.csproj.AssemblyReference.cache
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmChart.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmCustomer.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmEmployees.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmProduct.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmBill.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmControlCustomerID.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmControlQuantityProduct.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmCotrlAddUser.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.FunctionFrm.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.SaleOrder.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.SaleProduct.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.FRM.WareHouseWareHouse.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.login_frm.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.Manager.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.Properties.Resources.resources
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.csproj.GenerateResource.cache
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.AssemblyInfoInputs.cache
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.AssemblyInfo.cs
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.csproj.CoreCompileInputs.cache
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.csproj.Up2Date
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.dll
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\refint\database.dll
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.pdb
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\database.genruntimeconfig.cache
+D:\IT\souresC#\database - Copy\database\obj\Debug\net7.0-windows7.0\ref\database.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\database.exe
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\database.deps.json
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\database.runtimeconfig.json
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\database.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\database.pdb
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\BCrypt.Net.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\BouncyCastle.Cryptography.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\EPPlus.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\EPPlus.Interfaces.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\EPPlus.System.Drawing.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Guna.UI2.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\itextsharp.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\LiveCharts.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\LiveCharts.WinForms.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\LiveCharts.Wpf.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Extensions.Primitives.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\System.Drawing.Common.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\System.Formats.Asn1.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\System.Management.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\System.Security.Cryptography.Pkcs.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\System.Text.Encoding.CodePages.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\System.Text.Encodings.Web.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\System.Text.Json.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\win-arm64\native\sni.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\win-x64\native\sni.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\win-x86\native\sni.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+D:\IT\souresC#\database-ASM2-TEST\database\bin\Debug\net7.0-windows7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.csproj.AssemblyReference.cache
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmChart.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmCustomer.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmEmployees.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.AdminFrmProduct.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmBill.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmControlCustomerID.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmControlQuantityProduct.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.FrmCotrlAddUser.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.FunctionFrm.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.SaleOrder.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.SaleProduct.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.FRM.WareHouseWareHouse.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.login_frm.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.Manager.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.Properties.Resources.resources
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.csproj.GenerateResource.cache
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.AssemblyInfoInputs.cache
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.AssemblyInfo.cs
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.csproj.CoreCompileInputs.cache
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.csproj.Up2Date
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.dll
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\refint\database.dll
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.pdb
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\database.genruntimeconfig.cache
+D:\IT\souresC#\database-ASM2-TEST\database\obj\Debug\net7.0-windows7.0\ref\database.dll
