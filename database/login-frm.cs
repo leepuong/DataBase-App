@@ -20,7 +20,6 @@ namespace database
     {
         SqlConnection conn = new SqlConnection("Server=DELL-5430\\SQLEXPRESS;Database  = StoreX; Integrated Security = true;");
 
-        /*public string UserPassID { get; private set; }*/
         public string usernameLog { get; private set; }
         public string passwordLog { get; private set; }
 
@@ -81,7 +80,6 @@ namespace database
                     using (SqlCommand cmd = new SqlCommand(query, connection))
                     {
                         cmd.Parameters.Add(new SqlParameter("@Username", SqlDbType.NVarChar) { Value = usernameLog });
-                        MessageBox.Show(usernameLog);
                         connection.Open();
 
                         using (SqlDataReader reader = cmd.ExecuteReader())
