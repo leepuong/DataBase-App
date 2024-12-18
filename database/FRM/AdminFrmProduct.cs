@@ -1,4 +1,5 @@
 ﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -596,7 +597,14 @@ namespace database.FRM
             }
 
             string insertQuery = @"INSERT INTO [Product] 
-                    VALUES (@ProductID,(SELECT SupplierID FROM [dbo].[Supplies] WHERE SupplierNAME = @Origin),@ProductName,@Price,@Quantity,(SELECT CategoryID FROM [Category] WHERE CategoryNAME = @Category),@Discount, 1)";
+                    VALUES (@ProductID,
+                            (SELECT SupplierID FROM [dbo].[Supplies] WHERE SupplierNAME = @Origin),
+                            @ProductName,
+                            @Price,
+                            @Quantity,
+                            (SELECT CategoryID FROM [Category] WHERE CategoryNAME = @Category),
+                            @Discount,
+                            1)";
 
             using (SqlCommand cmd = new SqlCommand(insertQuery, Connection))
             {

@@ -204,6 +204,9 @@ namespace database.FRM
                     hasSpecialChar = true;
                 }
             }
+
+
+
             if (!hasUpperCase)
             {
                 MessageBox.Show("Password must contain at least one uppercase character!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);

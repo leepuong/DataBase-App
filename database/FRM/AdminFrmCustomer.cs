@@ -312,7 +312,11 @@ namespace database.FRM
             try
             {
                 string searchValue = btnSeaschBtnAdminCustomer.Text.Trim();
-                String baseQuery = "SELECT [CustomerID] as \"     ID\",[CustumerNAME] as \"     Name\",[PhoneOfCustomers] as \"     Phone\",[AddressOfCustomers] as \"     Address\" FROM [StoreX].[dbo].[Customers]  where ";
+                String baseQuery = "SELECT [CustomerID] as \"     ID\"" +
+                    ",[CustumerNAME] as \"     Name\"" +
+                    ",[PhoneOfCustomers] as \"     Phone\"" +
+                    ",[AddressOfCustomers] as \"     Address\"" +
+                    " FROM [StoreX].[dbo].[Customers]  where ";
                 string whereClause = "";
                 if (btnReaschIDCus.Checked)
                 {
