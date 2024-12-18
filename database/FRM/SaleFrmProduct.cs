@@ -399,6 +399,10 @@ namespace database.FRM
 
                         return true;
                     }
+                    else if (QuantityValue < 0){
+                        MessageBox.Show("Product quantity must be positive");
+                        return false;
+                    }
                     else 
                     {
                         MessageBox.Show("Insufficient quantity of products in stock");
