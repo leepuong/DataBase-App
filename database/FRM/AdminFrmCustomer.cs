@@ -32,7 +32,11 @@ namespace database.FRM
 
         public void FillData()
         {
-            String query = "SELECT CustomerID as \"    ID\"\r\n      , CustumerNAME as \"     Name\"\r\n      , PhoneOfCustomers as \"     Phone\"\r\n      , AddressOfCustomers as \"     Address\"\r\n  FROM Customers";
+            String query = "SELECT CustomerID as \"    ID\"" +
+                "\r\n      , CustumerNAME as \"     Name\"" +
+                "\r\n      , PhoneOfCustomers as \"     Phone\"" +
+                "\r\n      , AddressOfCustomers as \"     Address\"" +
+                "\r\n  FROM Customers";
             DataTable tb = new DataTable();
             SqlDataAdapter ad = new SqlDataAdapter(query, Connection);
             ad.Fill(tb);
@@ -231,14 +235,14 @@ namespace database.FRM
         {
             if (string.IsNullOrEmpty(selectedAdminIDCustomer))
             {
-                MessageBox.Show("Please select an employee to delete.", "Warning",
+                MessageBox.Show("Please select an Customer to delete.", "Warning",
                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
 
 
             DialogResult result = MessageBox.Show(
-                $"Are you sure you want to delete Product: {selectedAdminNameCustomer}?",
+                $"Are you sure you want to delete Customer: {selectedAdminNameCustomer}?",
                 "Confirm Deletion",
                 MessageBoxButtons.YesNo,
                 MessageBoxIcon.Question);
@@ -254,9 +258,6 @@ namespace database.FRM
                         {
                             try
                             {
-
-
-
                                 string updateNullProductQuery = "UPDATE [Orders] SET [CustomerID] = NULL WHERE [CustomerID] = @CustomerID;";
 
                                 using (SqlCommand updateCmd = new SqlCommand(updateNullProductQuery, conn, transaction))
@@ -295,6 +296,10 @@ namespace database.FRM
                                 throw;
                             }
                         }
+                        if (conn.State == ConnectionState.Open)
+                        {
+                            conn.Close();
+                        }
 
                     }
                 }
@@ -303,6 +308,7 @@ namespace database.FRM
                     MessageBox.Show($"An error occurred: {ex.Message}", "Error",
                         MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
+                
             }
         }
 

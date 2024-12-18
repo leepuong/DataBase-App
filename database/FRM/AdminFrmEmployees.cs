@@ -300,16 +300,16 @@ namespace database.FRM
                             {
                       
                                 string updateOrdersQuery = "UPDATE Orders SET EmployeeID = NULL WHERE EmployeeID = @EmployeeID";
+                                string deleteEmployeeQuery = "DELETE FROM Employees WHERE EmployeeID = @EmployeeID";
+
+
+           
                                 using (SqlCommand updateCmd = new SqlCommand(updateOrdersQuery, conn, transaction))
                                 {
                                     updateCmd.Parameters.AddWithValue("@EmployeeID", selectedEmployeeID);
                                     updateCmd.ExecuteNonQuery();
                                 }
 
-
-
-           
-                                string deleteEmployeeQuery = "DELETE FROM Employees WHERE EmployeeID = @EmployeeID";
                                 using (SqlCommand deleteEmpCmd = new SqlCommand(deleteEmployeeQuery, conn, transaction))
                                 {
                                     deleteEmpCmd.Parameters.AddWithValue("@EmployeeID", selectedEmployeeID);
